@@ -1,5 +1,5 @@
 <p align="center" style="position: relative;">
-  <img src="./Reports/1%20-%20Assemble%20Circuits/Assets/4.jpg" style="max-width: 100%;" width="100%" height="auto" loading="eager">
+  <img src="https://github.com/40021441054102/Physics-Lab/blob/main/Reports/0%20-%20Assemble%20Circuits/Assets/4.jpg" style="max-width: 100%;" width="100%" height="auto" loading="eager">
 </p>
 
 # Physics-Lab
