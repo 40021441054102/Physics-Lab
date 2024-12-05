@@ -9,19 +9,18 @@ Physics Lab Project, Papers and Other Stuff
 
 ### Abstract
 This repository contains a collection of reports and experiments :
-* 1. [Voltage Division Rule](#voltage-division-rule)
-* 2. [Ohm's Law](#ohms-law)
-* 3. [Affecting Factors on Resistors](#affecting-factors-on-resistors)
-* 4. [Bridge and Kelvin Methods](#bridge-and-kelvin-methods)
-* 5. [Transformer](#transformer)
-* 6. [Oscilloscope](#oscilloscope)
-* 7. [R-L-C Circuit](#r-l-c-circuit)
+* Report 1 : [Voltage Division Rule](#voltage-division-rule)
+* Report 2 : [Ohm's Law](#ohms-law)
+* Report 3 : [Affecting Factors on Resistors](#affecting-factors-on-resistors)
+* Report 4 : [Bridge and Kelvin Methods](#bridge-and-kelvin-methods)
+* Report 7 : [Transformer](#transformer)
+* Report 8 : [Oscilloscope](#oscilloscope)
+* Report 9 : [R-L-C Circuit](#r-l-c-circuit)
 
 ## Voltage Division Rule
-s
-s
-s
-s
+<p align="center" style="position: relative;">
+  <img src="https://github.com/40021441054102/Physics-Lab/blob/main/Reports/1%20-%20Voltage%20Division%20Rule/Assets/20241013_152613.jpg" style="max-width: 50%;" width="100%" height="auto" loading="eager">
+</p>
 
 ## Ohm's Law
 s
