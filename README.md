@@ -10,7 +10,7 @@ Physics Lab Project, Papers and Other Stuff
 ### Abstract
 This repository contains a collection of reports and experiments :
 * 1. [Voltage Division Rule](#voltage-division-rule)
-* 2. [Ohm's Law](#ohm's-law)
+* 2. [Ohm's Law](#ohms-law)
 * 3. [Affecting Factors on Resistors](#affecting-factors-on-resistors)
 * 4. [Bridge and Kelvin Methods](#bridge-and-kelvin-methods)
 * 5. [Transformer](#transformer)
